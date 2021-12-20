@@ -14,3 +14,5 @@ for file in os.listdir(forder):
             if name == "hand":
                 root.remove(country)
         tree.write(forder + "/" + file)
+
+#hix
